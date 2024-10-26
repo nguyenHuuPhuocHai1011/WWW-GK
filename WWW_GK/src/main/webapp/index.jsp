@@ -7,7 +7,7 @@
 <body>
 <h1><%= "Nguyen Huu Phuoc Hai - 21018551" %></h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a> </br>
+<a href="page?action=home">Hello Servlet</a> </br>
 <a href="page?action=candidate">Candidate</a> </br>
 <a href="page?action=skill">Skill</a> </br>
 <a href="page?action=job">Job</a> </br>
